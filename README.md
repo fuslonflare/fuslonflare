@@ -1,4 +1,8 @@
+![Kaito Kid hangrider with happy new year label](https://user-images.githubusercontent.com/17908005/154393617-ae357216-698c-4b99-ad8f-63ed965a6318.gif)
+![Detective Conan in helicopter, try to catch Kaito Kid](https://user-images.githubusercontent.com/17908005/154393614-73848b63-390b-42fd-82d7-61e86bf5ef4c.gif)
+
 ### Hi there 👋
+
 
 <!--
 **fuslonflare/fuslonflare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
