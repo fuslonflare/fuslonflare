@@ -1,11 +1,8 @@
-
-![mona-loading-default](https://user-images.githubusercontent.com/17908005/173718644-3d9fc785-ad7d-4d50-9c56-80eda82a15ea.gif)
-One moment please...
-
-<!---
-![Kaito Kid hangrider with happy new year label](https://user-images.githubusercontent.com/17908005/154393617-ae357216-698c-4b99-ad8f-63ed965a6318.gif)
-![Detective Conan in helicopter, try to catch Kaito Kid](https://user-images.githubusercontent.com/17908005/154393614-73848b63-390b-42fd-82d7-61e86bf5ef4c.gif)
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/17908005/154393617-ae357216-698c-4b99-ad8f-63ed965a6318.gif">
+  <img src="https://user-images.githubusercontent.com/17908005/154393614-73848b63-390b-42fd-82d7-61e86bf5ef4c.gif">
+</div>
+  
 ### Hi there 👋
 
 **fuslonflare/fuslonflare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
