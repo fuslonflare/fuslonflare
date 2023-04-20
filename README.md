@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/17908005/154393617-ae357216-698c-4b99-ad8f-63ed965a6318.gif">
-  <img src="https://user-images.githubusercontent.com/17908005/154393614-73848b63-390b-42fd-82d7-61e86bf5ef4c.gif">
-</div>
+<img src="https://www.codewars.com/users/fuslonflare/badges/large?theme=light">
   
 ### Hi there 👋
 
@@ -17,3 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
